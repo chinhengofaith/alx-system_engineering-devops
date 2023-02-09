@@ -10,3 +10,4 @@
 9-firstdirdeletion for directory deletion
 10-back moving back 
 11-lists listing all the files
+12-file_type to check the type of file iamafile
