@@ -7,3 +7,4 @@
 6-firstdirectory to create a directory in /tmp/
 7-movethatfile to move a file betty
 8-firstdelete to delete a file betty
+9-firstdirdeletion for directory deletion
