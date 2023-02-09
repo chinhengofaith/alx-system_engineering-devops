@@ -9,3 +9,4 @@
 8-firstdelete to delete a file betty
 9-firstdirdeletion for directory deletion
 10-back moving back 
+11-lists listing all the files
