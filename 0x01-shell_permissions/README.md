@@ -8,3 +8,4 @@
 7-everybody for execution everybody
 8-James_Bond for changing permissions to 007
 9-John_Doe changing permissions to 753
+10-mirror_permissions
