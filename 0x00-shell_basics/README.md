@@ -4,3 +4,4 @@
 3-Display current directory contents in a long format
 4-listmorefiles
 5-list files digit only
+6-firstdirectory to create a directory in /tmp/
