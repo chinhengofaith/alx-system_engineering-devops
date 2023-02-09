@@ -10,3 +10,4 @@
 9-John_Doe changing permissions to 753
 10-mirror_permissions
 11-directories_permissions
+12-directory_permissions
