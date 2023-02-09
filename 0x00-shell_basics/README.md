@@ -6,3 +6,4 @@
 5-list files digit only
 6-firstdirectory to create a directory in /tmp/
 7-movethatfile to move a file betty
+8-firstdelete to delete a file betty
