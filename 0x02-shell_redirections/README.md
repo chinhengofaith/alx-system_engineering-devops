@@ -12,4 +12,5 @@
 11-directories
 12-newest_files for displaying 10 newest files
 13-unique
-14-findthatword 
+14-findthatword
+15-countthatword 
