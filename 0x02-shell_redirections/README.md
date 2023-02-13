@@ -6,4 +6,6 @@
 5-firstlines for displaying first 10 lines
 6-third_line for displaying the third line only
 7-file
-8-cwd_state   
+8-cwd_state
+9-duplicate_last_line
+10-no_more_js   
