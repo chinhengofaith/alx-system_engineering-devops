@@ -8,4 +8,5 @@
 7-create_global_variables
 8-TrueKnowledge
 9 divide and rule 
-10 love exponent breath  
+10 love exponent breath
+11 binary to decimal  
