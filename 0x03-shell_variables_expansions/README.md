@@ -7,4 +7,5 @@
 6-create_local_variables
 7-create_global_variables
 8-TrueKnowledge
-9 divide and rule   
+9 divide and rule 
+10 love exponent breath  
