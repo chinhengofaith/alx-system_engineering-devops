@@ -9,4 +9,5 @@
 8-TrueKnowledge
 9 divide and rule 
 10 love exponent breath
-11 binary to decimal  
+11 binary to decimal
+12 combinations   
